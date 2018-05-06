@@ -1,6 +1,8 @@
 # 可滑动改变状态的CheckBox
 
-<com.veblen.CheckBoxView
+
+
+#<com.veblen.CheckBoxView
     android:id="@+id/checkbox"
     android:layout_width="100dp"
     android:layout_height="40dp"
