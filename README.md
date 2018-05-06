@@ -3,8 +3,8 @@
 
 
 #<com.veblen.CheckBoxView
-    android:id="@+id/checkbox"
-    android:layout_width="100dp"
+#    android:id="@+id/checkbox"
+#    android:layout_width="100dp"
     android:layout_height="40dp"
     android:layout_marginTop="30dp"
     app:falseColor="@color/colorGray" 
